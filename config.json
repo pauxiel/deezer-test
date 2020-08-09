@@ -1,0 +1,5 @@
+{
+    "app_id": "your app id",
+    "secret_key": "the secret key",
+    "url": "http://127.0.0.1:8765/auth"
+}
